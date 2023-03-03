@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+  background-image: url("https://img.onmanorama.com/content/dam/mm/en/travel/travel-news/images/2022/7/13/kerala-tourism.jpg");
+  backdrop-filter: blur(3px);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
